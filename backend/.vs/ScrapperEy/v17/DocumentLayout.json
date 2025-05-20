@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\controllers\\uipathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\controllers\\uipathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\services\\uipathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\services\\uipathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\controllers\\offshorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\controllers\\offshorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\services\\offshoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\services\\offshoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\dataaccess\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\dataaccess\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\models\\offshoreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\models\\offshoreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\dataaccess\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\dataaccess\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|c:\\users\\roberto\\documents\\pucp\\2025-1\\reto_v2\\scrapperey\\scrapperey\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB866E3B-73B2-44ED-BBE2-9BC3A094AD8E}|ScrapperEy\\ScrapperEy.csproj|solutionrelative:scrapperey\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiPathController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Controllers\\UiPathController.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Controllers\\UiPathController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Controllers\\UiPathController.cs",
+              "RelativeToolTip": "ScrapperEy\\Controllers\\UiPathController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:35:37.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UiPathService.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Services\\UiPathService.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Services\\UiPathService.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Services\\UiPathService.cs",
+              "RelativeToolTip": "ScrapperEy\\Services\\UiPathService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA8wD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:29:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\appsettings.json",
+              "RelativeDocumentMoniker": "ScrapperEy\\appsettings.json",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\appsettings.json",
+              "RelativeToolTip": "ScrapperEy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T07:52:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OffShoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Controllers\\OffShoreController.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Controllers\\OffShoreController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Controllers\\OffShoreController.cs",
+              "RelativeToolTip": "ScrapperEy\\Controllers\\OffShoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:33:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OffShoreService.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Services\\OffShoreService.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Services\\OffShoreService.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Services\\OffShoreService.cs",
+              "RelativeToolTip": "ScrapperEy\\Services\\OffShoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:15:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OffShoreEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Models\\OffShoreEntity.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Models\\OffShoreEntity.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Models\\OffShoreEntity.cs",
+              "RelativeToolTip": "ScrapperEy\\Models\\OffShoreEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:12:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoredProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\DataAccess\\StoredProcedure.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\DataAccess\\StoredProcedure.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\DataAccess\\StoredProcedure.cs",
+              "RelativeToolTip": "ScrapperEy\\DataAccess\\StoredProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:38:37.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\DataAccess\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\DataAccess\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\DataAccess\\DatabaseManager.cs",
+              "RelativeToolTip": "ScrapperEy\\DataAccess\\DatabaseManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:41:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScrapperEy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScrapperEy\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T13:20:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ScrapperEy\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\appsettings.Development.json",
+              "RelativeToolTip": "ScrapperEy\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T13:20:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Program.cs",
+              "RelativeDocumentMoniker": "ScrapperEy\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\PUCP\\2025-1\\Reto_v2\\ScrapperEy\\ScrapperEy\\Program.cs",
+              "RelativeToolTip": "ScrapperEy\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:20:38.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
