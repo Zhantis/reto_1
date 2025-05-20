@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Browse  ICIJ Offshore Leaks Database - Google Chrome",
+  "Type": "App",
+  "Id": "bWZXIyBnsUiK4MjnE-RS1g",
+  "Reference": "RYPnquwNKk6LbArnjhwEZA/bWZXIyBnsUiK4MjnE-RS1g",
+  "Created": "2025-05-20T16:42:18.7955094Z",
+  "Updated": "2025-05-20T16:42:18.7955094Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

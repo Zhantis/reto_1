@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Browse  ICIJ Offshore Leaks Database",
+  "Type": "Screen",
+  "Id": "EtPvIoyAlk-apdZd5V5ArA",
+  "Reference": "RYPnquwNKk6LbArnjhwEZA/EtPvIoyAlk-apdZd5V5ArA",
+  "ParentRef": "RYPnquwNKk6LbArnjhwEZA/kdj-ad1wh064W7H4iCoG5w",
+  "Created": "2025-05-20T16:45:41.833038Z",
+  "Updated": "2025-05-20T16:45:41.833038Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
